@@ -6,9 +6,9 @@ title = "MedFM: 1st Workshop on Medical Foundation Models: From Pretraining to C
 
 Foundation models are rapidly reshaping medical AI, enabling large-scale representation learning across imaging, clinical text, biosignals, and multimodal health data. Despite strong performance across many downstream tasks, major challenges remain in translating these advances into reliable clinical impact. This workshop brings together researchers to exchange perspectives on key obstacles, including data heterogeneity, domain shift, limited annotation, evaluation biases, robustness, interpretability, and regulatory constraints.
 
-## Call for Abstracts
+# Call for Abstracts
 
-# Scope of the Workshop:
+## Scope of the Workshop:
 
 We invite submissions of 300-word extended abstracts presenting original, unpublished, or ongoing work on medical foundation models. Topics of interest include, but are not limited to:
 
@@ -25,7 +25,7 @@ We invite submissions of 300-word extended abstracts presenting original, unpubl
 Submissions will be reviewed for quality, relevance, and potential to stimulate discussion. All selected abstracts will be presented as posters, while a subset will be chosen for short oral presentations. All accepted contributions will be included in the workshop program.
 We particularly encourage interdisciplinary work and contributions that highlight practical challenges, novel methodologies, or real-world clinical applications.
 
-# Important dates
+## Important dates
 
 | Date              | Event            |
 | ----------------- | ---------------- |
@@ -88,7 +88,14 @@ We particularly encourage interdisciplinary work and contributions that highligh
         ["Marcel Knopp","German Cancer Research Center (DKFZ)]",
         ["Constantin Ulrich","German Cancer Research Center (DKFZ)"],
     ],
-    image_dir = "organizers") }}
+    images = [
+        "placeholder.svg",
+        "placeholder.svg",
+        "placeholder.svg",
+        "placeholder.svg",
+        "placeholder.svg",
+    ],
+    narrow = true) }}
 
 
 

@@ -85,7 +85,7 @@ We particularly encourage interdisciplinary work and contributions that highligh
         ["Laura Daza","Helmholtz Munich"],
         ["Cristina González","Helmholtz Munich"],
         ["Marta Hasny","Helmholtz Munich"],
-        ["Marcel Knopp","German Cancer Research Center (DKFZ)]",
+        ["Marcel Knopp","German Cancer Research Center (DKFZ)"],
         ["Constantin Ulrich","German Cancer Research Center (DKFZ)"],
     ],
     images = [

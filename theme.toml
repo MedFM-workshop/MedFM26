@@ -1,9 +1,9 @@
-name = "Academic Workshop"
-description = "A Zola theme for a website to list the schedule of your scientific workshop or seminar series"
+name = "MedFM Workshop"
+description = "MedFM: 1st Workshop on Medical Foundation Models: From Pretraining to Clinical Impact at HAICON 2026"
 license = "MIT"
 homepage = "https://github.com/aterenin/academic-workshop"
 min_version = "0.18.0"
-demo = "https://aterenin.github.io/academic-workshop"
+demo = "https://github.com/MedFM-workshop/MedFM26"
 
 [extra]
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."

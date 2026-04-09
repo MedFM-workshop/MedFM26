@@ -1,25 +1,54 @@
 +++
-title = "Academic Workshop Zola Theme"
+title = "MedFM: 1st Workshop on Medical Foundation Models: From Pretraining to Clinical Impact"
 +++
 
-# Design
+# About the workshop
 
-Welcome to the [Academic Workshop](https://github.com/aterenin/academic-workshop) Zola theme!
-This theme is designed for hosting a scientific workshop or seminar series website.
+Foundation models are rapidly reshaping medical AI, enabling large-scale representation learning across imaging, clinical text, biosignals, and multimodal health data. Despite strong performance across many downstream tasks, major challenges remain in translating these advances into reliable clinical impact. This workshop brings together researchers to exchange perspectives on key obstacles, including data heterogeneity, domain shift, limited annotation, evaluation biases, robustness, interpretability, and regulatory constraints.
 
-## Features
+## Call for Abstracts
 
-* A customizable header, with support for a banner, icon, title text, subtitle, date, and link, all enabled via straightforward options in the config file.
-* Shortcodes implementing various useful features:
-    * Split the page into sections with a different background color.
-    * Create a two-dimensional image grid, for instance for displaying a list of speakers, with support for 2x3, 2x4, and other layouts, as well as automatic image resizing for both 1x and retina 2x displays.
-    * Create a list of previous seminars, complete with appropriate buttons and links.
-    * Import and autogenerate tables from external data, including with buttons for links such as paper download URLs.
-    * Create buttons pointing to other pages.
-* Easily-customizable colors by overriding `main.scss`, including dark mode via CSS variables.
-* Simple, straightforward, easy-to-use, and easy-to-extend programmatic interface.
-* No JavaScript or CSS dependencies of any kind, built in a way that is [designed to last](https://jeffhuang.com/designed_to_last/), even as web and browser standards change.
+# Scope of the Workshop:
 
+We invite submissions of 300-word extended abstracts presenting original, unpublished, or ongoing work on medical foundation models. Topics of interest include, but are not limited to:
+
+* Pretraining strategies for medical foundation models
+* Multimodal learning across imaging, text, and structured health data
+* Domain adaptation and fine-tuning for clinical tasks
+* Evaluation benchmarks and validation in real-world settings
+* Interpretability, explainability, and trustworthiness
+* Bias, fairness, and ethical considerations in healthcare AI
+* Privacy-preserving and federated learning approaches
+* Deployment, monitoring, and integration into clinical workflows
+* Regulatory and translational challenges
+
+Submissions will be reviewed for quality, relevance, and potential to stimulate discussion. All selected abstracts will be presented as posters, while a subset will be chosen for short oral presentations. All accepted contributions will be included in the workshop program.
+We particularly encourage interdisciplinary work and contributions that highlight practical challenges, novel methodologies, or real-world clinical applications.
+
+# Important dates
+
+| Date              | Event            |
+| ----------------- | ---------------- |
+| April 15, 2026    | Submission Opens  |
+| May 5, 2026       | Talk: Projects on Medical Foundation Models by Workshop Organizers (45 min) |
+| May 20, 2026      | Notification of Acceptance  |
+| June 8, 2026      | Workshop |
+
+
+{{ new_block() }}
+
+
+
+# Schedule
+
+| Time              | Title            |
+| ----------------- | ---------------- |
+| 2:15pm – 2:25pm   | Opening Remarks  |
+| 2:25pm – 3:10pm   | Talk: Projects on Medical Foundation Models by Workshop Organizers (45 min) |
+| 3:10pm - 3:40pm   | Keynote 1:  Prof. Ewa Szczurek, Helmholtz Munich        |
+| 3:40pm - 4:15pm   | Oral Session 1 |
+| 4:15pm - 4:30pm   | Coffee Break   |
+| 4:30pm - 4:40pm   | Oral Session 1 |
 
 
 {{ new_block() }}
@@ -30,23 +59,14 @@ This theme is designed for hosting a scientific workshop or seminar series websi
 
 {{ grid(
     text = [
-        ["Speaker A","Institution A"], 
-        ["Speaker B","Institution B"],
-        ["Speaker C","Institution C"],
-        ["Speaker D","Institution D"],
-        ["Speaker E","Institution E"],
+        ["Prof. Ewa Szczurek","Institute of AI for Health at Helmholtz Munich"], 
+        ["Dr. Fabian Isensee","German Cancer Research Center (DKFZ)"],
     ],
     urls = [
         "https://aterenin.github.io/academic-workshop#speaker_a",
         "https://aterenin.github.io/academic-workshop#speaker_b",
-        "https://aterenin.github.io/academic-workshop#speaker_c",
-        "https://aterenin.github.io/academic-workshop#speaker_d",
-        "https://aterenin.github.io/academic-workshop#speaker_e",
     ],
     images = [
-        "placeholder.svg",
-        "placeholder.svg",
-        "placeholder.svg",
         "placeholder.svg",
         "placeholder.svg",
     ],
@@ -62,28 +82,17 @@ This theme is designed for hosting a scientific workshop or seminar series websi
 
 {{ grid(
     text = [
-        "Organizer A",
-        "Organizer B",
+        ["Laura Daza","Helmholtz Munich"],
+        ["Cristina González","Helmholtz Munich"],
+        ["Marta Hasny","Helmholtz Munich"],
+        ["Marcel Knopp","German Cancer Research Center (DKFZ)]",
+        ["Constantin Ulrich","German Cancer Research Center (DKFZ)"],
     ],
     image_dir = "organizers") }}
 
 
-{{ new_block() }}
 
-
-
-# Schedule
-
-| Time             | Event            |
-| ---------------- | ---------------- |
-| 12:00pm - 1:00pm | Introduction and Opening Remarks: Speaker Name A     |
-| 1:00pm - 2:00pm  | Speaker A        |
-| 2:00pm - 3:00pm  | Speaker B        |
-| 3:00pm - 4:00pm  | Discussion Panel |
-
-
-
-{{ new_block() }}
+<!-- {{ new_block() }}
 
 
 
@@ -94,21 +103,21 @@ This theme is designed for hosting a scientific workshop or seminar series websi
     columns = ["Title","Authors"],
     button_names = ["paper","poster"], 
     button_data_columns = [3,4], 
-    button_output_columns = [1,1]) }}
+    button_output_columns = [1,1]) }} -->
 
 
-
+<!-- 
 {{ new_block() }}
 
 
 
 # Upcoming Seminar
 
-{{ highlights(section_name = "seminars") }}
+{{ highlights(section_name = "seminars") }} -->
 
 
 
-{{ new_block() }}
+<!-- {{ new_block() }}
 
 
 
@@ -116,4 +125,4 @@ This theme is designed for hosting a scientific workshop or seminar series websi
 
 {{ list(section_name = "seminars") }}
 
-{{ button(name = "All Seminars", url = "seminars")}}
+{{ button(name = "All Seminars", url = "seminars")}} -->

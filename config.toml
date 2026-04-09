@@ -1,4 +1,4 @@
-base_url = "https://medfm-workshop.github.io/medfm"
+base_url = "https://medfm-workshop.github.io/MedFM26/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false

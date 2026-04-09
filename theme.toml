@@ -1,7 +1,7 @@
 name = "MedFM Workshop"
 description = "MedFM: 1st Workshop on Medical Foundation Models: From Pretraining to Clinical Impact at HAICON 2026"
 license = "MIT"
-homepage = "https://github.com/aterenin/academic-workshop"
+homepage = "https://github.com/MedFM-workshop/MedFM26"
 min_version = "0.18.0"
 demo = "https://github.com/MedFM-workshop/MedFM26"
 

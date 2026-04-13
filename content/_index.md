@@ -12,6 +12,7 @@ Foundation models are rapidly reshaping medical AI, enabling large-scale represe
 
 We invite submissions of 300-word extended abstracts presenting original, unpublished, or ongoing work on medical foundation models. Topics of interest include, but are not limited to:
 
+* Data collection and curation for scaled pretraining
 * Pretraining strategies for medical foundation models
 * Multimodal learning across imaging, text, and structured health data
 * Domain adaptation and fine-tuning for clinical tasks
@@ -89,11 +90,11 @@ We particularly encourage interdisciplinary work and contributions that highligh
         ["Constantin Ulrich","German Cancer Research Center (DKFZ)"],
     ],
     images = [
-        "placeholder.svg",
-        "placeholder.svg",
-        "placeholder.svg",
-        "placeholder.svg",
-        "placeholder.svg",
+        "laura.jpg",
+        "cristina.jpg",
+        "marta.jpeg",
+        "marcel.jpeg",
+        "constantin.jpg",
     ],
     narrow = true) }}
 

@@ -7,7 +7,7 @@
     --color-black: #{$color-black};
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     :root {
         @if $color-text-dark { --color-text: #{$color-text-dark}; }
         @if $color-primary-dark { --color-primary: #{$color-primary-dark}; }

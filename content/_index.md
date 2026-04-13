@@ -6,6 +6,8 @@ title = "MedFM: 1st Workshop on Medical Foundation Models: From Pretraining to C
 
 Foundation models are rapidly reshaping medical AI, enabling large-scale representation learning across imaging, clinical text, biosignals, and multimodal health data. Despite strong performance across many downstream tasks, major challenges remain in translating these advances into reliable clinical impact. This workshop brings together researchers to exchange perspectives on key obstacles, including data heterogeneity, domain shift, limited annotation, evaluation biases, robustness, interpretability, and regulatory constraints.
 
+{{ new_block() }}
+
 # Call for Abstracts
 
 ## Scope of the Workshop:
@@ -94,7 +96,7 @@ We particularly encourage interdisciplinary work and contributions that highligh
         "cristina.jpg",
         "marta.jpeg",
         "marcel.jpeg",
-        "constantin.jpg",
+        "constantin.png",
     ],
     narrow = true) }}
 

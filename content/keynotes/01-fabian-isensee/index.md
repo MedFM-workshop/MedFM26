@@ -5,7 +5,6 @@ author = "Dr. Fabian Isensee"
 institution = "German Cancer Research Center (DKFZ)"
 author_url = ""
 time = "14:30 UTC"
-highlight = true
 image = "ewa.png"
 +++
 

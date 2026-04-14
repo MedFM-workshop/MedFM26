@@ -5,7 +5,6 @@ author = "Prof. Ewa Szczurek"
 institution = "Institute of AI for Health at Helmholtz Munich"
 author_url = ""
 time = "17:30 UTC"
-highlight = true
 image = "ewa.png"
 +++
 

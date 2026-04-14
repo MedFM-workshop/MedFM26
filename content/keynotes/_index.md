@@ -1,7 +1,7 @@
 +++
 title = "List of keynotes"
 page_template = "item.html"
-sort_by = "title"
+sort_by = "date"
 [extra]
 +++
 

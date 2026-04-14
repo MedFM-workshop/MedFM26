@@ -3,7 +3,7 @@ title = "TBD"
 [extra]
 author = "Prof. Ewa Szczurek"
 institution = "Institute of AI for Health at Helmholtz Munich"
-author_url = ""
+author_url = "https://aterenin.github.io/academic-workshop"
 time = "17:30 UTC"
 image = "ewa.png"
 +++

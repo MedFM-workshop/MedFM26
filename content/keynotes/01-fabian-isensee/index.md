@@ -3,7 +3,7 @@ title = "TBD"
 [extra]
 author = "Dr. Fabian Isensee"
 institution = "German Cancer Research Center (DKFZ)"
-author_url = ""
+author_url = "https://aterenin.github.io/academic-workshop"
 time = "14:30 UTC"
 image = "ewa.png"
 +++

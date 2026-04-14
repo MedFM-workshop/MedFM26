@@ -3,8 +3,8 @@
 }
 .fade {
     background: color-mix(in srgb, var(--color-light) 95%, transparent);
-    box-shadow: 0 0 2rem 0.5rem color-mix(in srgb, var(--color-light) 95%, transparent);
-    border-radius: 2rem;
+    box-shadow: 0 0 1rem 0.4rem color-mix(in srgb, var(--color-light) 95%, transparent);
+    border-radius: 10rem;
 }
 .header h1 {
     font-size: 3rem;

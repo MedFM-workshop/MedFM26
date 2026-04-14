@@ -2,7 +2,7 @@
 title = "TBD"
 [extra]
 author = "Prof. Ewa Szczurek"
-institution = "Institute of AI for Health at Helmholtz Munich"
+institution = "Institute of AI for Health at Helmholtz Munich, University of Warsaw"
 author_url = "https://www.helmholtz-munich.de/en/aih/ewa-szczurek"
 highlight = true
 image = "ewa.png"

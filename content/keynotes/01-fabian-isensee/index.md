@@ -3,9 +3,6 @@ title = "TBD"
 [extra]
 author = "Dr. Fabian Isensee"
 institution = "German Cancer Research Center (DKFZ)"
-<!-- author_url = "https://aterenin.github.io/academic-workshop" -->
-<!-- time = "16:00 UTC" -->
-<!-- video = "https://aterenin.github.io/academic-workshop" -->
 highlight = true
 image = "ewa.png"
 +++

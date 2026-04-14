@@ -3,9 +3,6 @@ title = "TBD"
 [extra]
 author = "Prof. Ewa Szczurek"
 institution = "Institute of AI for Health at Helmholtz Munich"
-<!-- author_url = "https://aterenin.github.io/academic-workshop" -->
-<!-- time = "16:00 UTC" -->
-<!-- video = "https://aterenin.github.io/academic-workshop" -->
 highlight = true
 image = "ewa.png"
 +++

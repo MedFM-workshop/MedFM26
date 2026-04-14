@@ -115,11 +115,11 @@ We particularly encourage interdisciplinary work and contributions that highligh
 
 # Upcoming Seminar
 
-{{ highlights(section_name = "seminars") }} -->
+{{ highlights(section_name = "seminars") }}
 
 
 
-<!-- {{ new_block() }}
+{{ new_block() }}
 
 
 

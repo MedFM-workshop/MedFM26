@@ -64,6 +64,8 @@ We particularly encourage interdisciplinary work and contributions that highligh
 
 {{ highlights(section_name = "keynotes") }}
 
+{{ list(section_name = "keynotes") }}
+
 <!-- {{ grid(
     text = [
         ["Prof. Ewa Szczurek","Institute of AI for Health at Helmholtz Munich"], 

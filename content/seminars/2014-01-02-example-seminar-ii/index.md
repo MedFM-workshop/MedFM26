@@ -4,7 +4,6 @@ title = "TBD"
 author = "Prof. Ewa Szczurek"
 institution = "Institute of AI for Health at Helmholtz Munich"
 author_url = "https://www.helmholtz-munich.de/en/aih/ewa-szczurek"
-time = "17:30 UTC"
 highlight = true
 image = "ewa.png"
 +++

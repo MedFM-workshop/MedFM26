@@ -64,11 +64,6 @@ We particularly encourage interdisciplinary work and contributions that highligh
 
 {{ highlights(section_name = "seminars") }}
 
-{{ list(section_name = "keynotes") }}
-
-{{ button(name = "All keynotes", url = "keynotes")}}
-
-
 {{ new_block() }}
 
 

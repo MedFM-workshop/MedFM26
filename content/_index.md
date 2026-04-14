@@ -13,7 +13,7 @@ Foundation models are rapidly reshaping medical AI, enabling large-scale represe
 
 ## Scope of the Workshop:
 
-We invite submissions of 300-word extended abstracts presenting original, unpublished, or ongoing work on medical foundation models. Topics of interest include, but are not limited to:
+We invite submissions of 300-word extended abstracts presenting original, unpublished, or ongoing work, as well as recently published or accepted archival work (published or accepted in 2025 or later), on medical foundation models. Topics of interest include, but are not limited to:
 
 * Data collection and curation for scaled pretraining
 * Pretraining strategies for medical foundation models

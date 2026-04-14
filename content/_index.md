@@ -62,7 +62,7 @@ We particularly encourage interdisciplinary work and contributions that highligh
 
 # List of Speakers
 
-{{ highlights(section_name = "keynotes") }}
+{{ highlights(section_name = "seminars") }}
 
 {{ list(section_name = "keynotes") }}
 
@@ -92,10 +92,7 @@ We particularly encourage interdisciplinary work and contributions that highligh
     ],
     narrow = true) }}
 
-
-
 <!-- {{ new_block() }}
-
 
 
 # Accepted Papers
@@ -108,19 +105,14 @@ We particularly encourage interdisciplinary work and contributions that highligh
     button_output_columns = [1,1]) }} -->
 
 
-
 {{ new_block() }}
-
 
 
 # Upcoming Seminar
 
 {{ highlights(section_name = "seminars") }}
 
-
-
 {{ new_block() }}
-
 
 
 # List of Seminars

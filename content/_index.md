@@ -105,7 +105,7 @@ We particularly encourage interdisciplinary work and contributions that highligh
     button_output_columns = [1,1]) }} -->
 
 
-{{ new_block() }}
+<!-- {{ new_block() }}
 
 
 # Upcoming Seminar
@@ -119,4 +119,4 @@ We particularly encourage interdisciplinary work and contributions that highligh
 
 {{ list(section_name = "seminars") }}
 
-{{ button(name = "All Seminars", url = "seminars")}}
+{{ button(name = "All Seminars", url = "seminars")}} -->

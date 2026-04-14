@@ -3,6 +3,7 @@ title = "TBD"
 [extra]
 author = "Dr. Fabian Isensee"
 institution = "German Cancer Research Center (DKFZ)"
+author_url = ""
 highlight = true
 image = "ewa.png"
 +++

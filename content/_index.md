@@ -62,14 +62,7 @@ We particularly encourage interdisciplinary work and contributions that highligh
 
 # List of Speakers
 
-{{ highlights(text = [
-        ["Prof. Ewa Szczurek","Institute of AI for Health at Helmholtz Munich"], 
-        ["Dr. Fabian Isensee","German Cancer Research Center (DKFZ)"],
-    ],
-    images = [
-        "placeholder.svg",
-        "placeholder.svg",
-    ],) }}
+{{ highlights(section_name = "keynotes") }}
 
 <!-- {{ grid(
     text = [

@@ -67,7 +67,6 @@ Zola or Tera changes make it possible without horrible workarounds.
         {% if highlight %} 
             {% set time = page.extra.time | default(value = false) %}
         {% endif %}
-        <h4 class="h6 mb-3">{{ page.date | date(format='%Y-%m-%d') }}{% if time %} &middot; {{ time }}{% endif %}</h4>
         
         {% if not highlight %}
             {% set abstract_button = load_data(literal = 'buttons = [{name = "Abstract", url = "' ~ get_url(path = page.path) ~ '"}]', format = 'toml') %}
